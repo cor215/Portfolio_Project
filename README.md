@@ -1,8 +1,9 @@
 # Portfolio_Projects
+Author_: Christian Omar Rosado
 
 ## Mortality Rates Over Time for 122 U.S. Cities
 
-In this personal project, I analyzed mortality rates for 122 U.S cities and identifyed signals displayling spikes above a three-sigma threashold. I also applied a clustering algorithm to group cities with similar mortality rates over time into four clusters. These clusters better visualize and summarize trends for mortality rates across the U.S.
+In this personal project, I analyzed mortality rates for 122 U.S cities and identifyed signals with significant spikes above a three-sigma threashold. I also applied a clustering algorithm to group cities with similar mortality rates over time into four clusters. These clusters better visualize and summarize trends for mortality rates across the U.S.
 
 ## Analysis and Results
 
@@ -16,10 +17,15 @@ The plot above shows a significant spike in deaths during the 80s and 90s decade
 
 ## Applying Machine/Statistical Learning
 
-Below I applied two clustering algorithms to group U.S. cities into four main clusters. These clusters helped better visualize and summarize trends for mortality rates across the U.S. I listed the cities for each cluster in the iPython notebook attached to this email.
+Below I applied two clustering algorithms to group U.S. cities into four main clusters. These clusters better visualize and summarize trends for mortality rates across the U.S. I listed the cities for each cluster in the iPython notebook attached to this project.
 
 ![image info](image(2).png)
 
 ![image info](image(3).png)
 
 ![image info](image(4).png)
+
+
+
+Enjoy the insight!
+- Christian Omar Rosado
