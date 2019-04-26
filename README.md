@@ -27,5 +27,5 @@ Below I applied two clustering algorithms to group U.S. cities into four main cl
 
 
 
-Enjoy the insight!
-- Christian Omar Rosado
+Enjoy the insights!
+Christian Omar Rosado
