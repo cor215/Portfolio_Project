@@ -18,7 +18,7 @@ The plot above shows a significant spike in deaths during the 80s and 90s decade
 
 Below I applied two clustering algorithms to group U.S. cities into four main clusters. These clusters helped better visualize and summarize trends for mortality rates across the U.S. I listed the cities for each cluster in the iPython notebook attached to this email.
 
-![image info]('image (2).png')
+![image info]("image (2).png")
 
 ![image info](image (3).png)
 
