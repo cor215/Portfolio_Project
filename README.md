@@ -6,6 +6,8 @@ In this personal project, I analyzed mortality rates for 122 U.S cities and iden
 
 ## Analysis and Results
 
+![image info](image.png)
+
 Above you'll notice deaths over time for all 122 U.S. cities. The gold line highlights mortality rates for New York City (the most populated city in the U.S.).
 
 The plot above shows a significant spike in deaths during the 80s and 90s decade for people 25 to 44 years old. After doing some online research, I learned these two decades were plagued with high crime rates, drug use, and the HIV/AIDS epidemic. I also learned President Bill Clinton implemented the 1994 Crime Bill to combat these statistics nationwide.
