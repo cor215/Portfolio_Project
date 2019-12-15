@@ -3,7 +3,7 @@ Author_: Christian Omar Rosado
 
 ## Mortality Rates Over Time for 122 U.S. Cities
 
-In this personal project, I analyzed mortality rates for 122 U.S cities and identifyed signals with significant spikes above a three-sigma threashold. I also applied a clustering algorithm to group cities with similar mortality rates over time into four clusters. These clusters better visualize and summarize trends for mortality rates across the U.S.
+In this personal project, I analyzed mortality rates for 122 U.S cities and identified signals with significant spikes above a three-sigma threshold. I also applied a clustering algorithm to group cities with similar mortality rates over time into four clusters. These clusters better visualize and summarize trends for mortality rates across the U.S.
 
 ## Analysis and Results
 
